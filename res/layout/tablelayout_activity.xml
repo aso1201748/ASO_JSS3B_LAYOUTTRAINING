@@ -67,7 +67,8 @@
             android:layout_width="30dp"
             android:layout_height="wrap_content"
             android:background="#90ff90"
-            android:checked="false" />
+            android:checked="false"
+            android:gravity="center_vertical|center|start" />
 
         <TextView
             android:id="@+id/textView5"
